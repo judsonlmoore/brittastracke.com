@@ -1,10 +1,26 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Facebook
+  link: 
+  job_title: Client Solutions Manager
+  dates: Jan 2018 – Present
   quote: >
-   Short description of the company (optional)
+   County Dublin, Ireland
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Set up large e-commerce clients for cross country success with Facebook solutions
+    - Build and manage relationships with key clients and agency partners
+    - Facilitate communication between internationally-located teams for customer and refining product solutions by working together with cross functional partners
+    - Find growth opportunities for DR-clients while working with internal & external stakeholders
+
+- layout: left
+  company: MediaCom
+  link: 
+  job_title: Media Consultant
+  dates: Jul 2015 – Nov 2017
+  quote: >
+   Düsseldorf, Germany
+  description: | # this will include new lines to allow paragraphs
+    - Planned & executed cross media campaigns (TV/Online/Print/OOH) for multiple Coca-Cola brands
+    - Managed and coordinating international projects with direct client contact
+    - Represented the company abroad in strategic cross border client meetings
+    - Educated trainees on the topic of media landscape

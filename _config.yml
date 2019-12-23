@@ -10,28 +10,28 @@ email: britta@brittastracke.com
 website: https://www.brittastracke.com
 base_url: /
 
-darkmode: false
+darkmode: 
 
 # Social links
+facebook_username: britta.karotte
+instagram_username: bkarotte
+linkedin_username: britta-stracke-71a349a3
+xing_username: Britta_Stracke3
 # twitter_username: 
 # github_username:  
 # stackoverflow_username: "00000001"
 # dribbble_username: 
-facebook_username: britta.karotte
 # flickr_username: 
-instagram_username: bkarotte
-linkedin_username: britta-stracke-71a349a3
-xing_username: Britta_Stracke3
 # pinterest_username: 
 # youtube_username: 
 # googleplus_username: 
 # orcid_username: 
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)

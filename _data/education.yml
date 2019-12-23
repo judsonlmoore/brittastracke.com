@@ -1,9 +1,26 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Universität Mannheim
+  dates: 2012 - 2015
+  qualification: MA Media and Communications (Grade 1,4)
   quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    My partner, our Smartphones and I: The influence of excessive Smartphone usage in the presence of the significant other on relationship satisfaction. A matter of Smartphone Jealousy?
+
+- layout: left
+  name: Universitetet i Bergen (UiB)
+  dates: 2013 - 2013
+  qualification: MA Media Studies
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+- layout: left
+  name: Universität Paderborn
+  dates: 2008 - 2011
+  qualification: Bachelor of Arts (B.A.) Business Media (Grade1,4)
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    An american family: The changing image of families in the mirror of US american TV series
