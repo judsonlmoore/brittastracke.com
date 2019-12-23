@@ -8,8 +8,9 @@ title: Digital Marketer
 email: britta@brittastracke.com
 # phone: Your phone number (optional)
 website: https://www.brittastracke.com
+base_url: /
 
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: 
