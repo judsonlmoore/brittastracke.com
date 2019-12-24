@@ -1,5 +1,5 @@
 # Site
-repository: judsonlmoore/brittastracke.com
+# repository: judsonlmoore/brittastracke.com
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -8,7 +8,6 @@ title: Digital Marketer
 email: britta@brittastracke.com
 # phone: Your phone number (optional)
 website: https://www.brittastracke.com
-base_url: https://www.brittastracke.com
 
 darkmode: 
 
