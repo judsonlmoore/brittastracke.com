@@ -54,13 +54,13 @@ jobs:
         paths:
           - _site
 
-# Runs a single command using the runners shell
-- name: FTP Deploy
-  uses: SamKirkland/FTP-Deploy-Action@3.1.1
-  with:
-    ftp-server: ${{ secrets.BLUEHOST_BRITTASTRACKE_HOST }}
-    ftp-username: ${{ secrets.BLUEHOST_BRITTASTRACKE_USER }}
-    ftp-password: ${{ secrets.BLUEHOST_BRITTASTRACKE_PW }}
-  env:
-    GIT_TRACE: 1
-    GIT_CURL_VERBOSE: 1
+    # Runs a single command using the runners shell
+    - name: FTP Deploy
+      uses: SamKirkland/FTP-Deploy-Action@3.1.1
+      with:
+        ftp-server: ${{ secrets.BLUEHOST_BRITTASTRACKE_HOST }}
+        ftp-username: ${{ secrets.BLUEHOST_BRITTASTRACKE_USER }}
+        ftp-password: ${{ secrets.BLUEHOST_BRITTASTRACKE_PW }}
+      env:
+        GIT_TRACE: 1
+        GIT_CURL_VERBOSE: 1
