@@ -7,7 +7,7 @@ name: Britta Stracke
 title: Digital Marketer
 email: britta@brittastracke.com
 # phone: Your phone number (optional)
-website: https://www.brittastracke.com
+url: https://www.brittastracke.com
 
 darkmode: 
 
@@ -43,7 +43,7 @@ xing_username: Britta_Stracke3
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: assets/images/profile.jpg
+about_profile_image: /assets/images/avatar-britta-stracke.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -72,26 +72,5 @@ more_content: | # this will include new lines to allow paragraphs
 # Footer
 footer_show_references: true
 
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
 plugins:
  - jekyll-seo-tag
-
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
