@@ -2,14 +2,51 @@
 # repository: judsonlmoore/brittastracke.com
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
+## jekyll-seo-tag
+url: https://www.brittastracke.com
+title: 
+tagline: 
+description: 
+author: 
+twitter:
+  username: 
+  card: summary
+facebook:
+  app_id: 1234
+  publisher: 1234
+  admins: 1234
+social:
+  name: Britta Stracke
+  links:
+    - https://twitter.com/
+    - https://www.facebook.com/
+    - https://www.linkedin.com/in/britta-stracke-71a349a3/
+    - https://github.com/
+    - https://keybase.io/
+webmaster_verifications:
+  google: 1234
+  bing: 1234
+  alexa: 1234
+  yandex: 1234
+  baidu: 1234
+lang: en_US
+
+favicon: /assets/img/favicon.png
+
+
 # Personal info
 name: Britta Stracke
 title: Digital Marketer
+description: Driven by curiosity and passion I have spent the last decade in exploration of social media’s influence on users. When I’m not on the job, I am a movie buff who’s attempting to play the ukulele. I also love exploring nature and new places by foot or bike.
+birthday: 11th April, 1988
+phone: 49 (000) 0000 000
+location: Berlin, Germany
 email: britta@brittastracke.com
-# phone: Your phone number (optional)
-url: https://www.brittastracke.com
+facebook: /
+twitter: /
+linkedin: https://www.linkedin.com/in/britta-stracke-71a349a3/
 
-darkmode: 
+darkmode: true
 
 # Social links
 # facebook_username: britta.karotte
